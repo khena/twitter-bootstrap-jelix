@@ -9,12 +9,7 @@
 */
 
 include_once(JELIX_LIB_PATH.'forms/jFormsBuilderHtml.class.php');
-/**
- * HTML form builder
- * @package     jelix
- * @subpackage  jelix-plugins
- * @deprecated
- */
+
 class htmlbootstrapJformsBuilder extends jFormsBuilderHtml {
 
     public function outputHeader($params){
