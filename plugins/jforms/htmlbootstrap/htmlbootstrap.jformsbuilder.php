@@ -2,7 +2,9 @@
 /**
 * @package     jelix
 * @subpackage  forms
-* @author      Bruno Perles
+* @author      Laurent Jouanneau
+* @copyright   2006-2010 Laurent Jouanneau
+* @contributor Bruno PERLES
 * @copyright   2011 Bruno Perles
 * @link        http://www.jelix.org
 * @licence     http://www.gnu.org/licenses/lgpl.html GNU Lesser General Public Licence, see LICENCE file
