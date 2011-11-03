@@ -1,1 +1,6 @@
 Twitter Bootstrap for the Framework PHP5 Jelix
+
+TODO :
+
+ - Improve the way to generate the checkboxes and the radio buttons
+ - jforms-error isn't added when the required fields are not filled when the form is submit
